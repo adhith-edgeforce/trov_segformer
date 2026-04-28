@@ -1,0 +1,8 @@
+# Core ML dependencies
+transformers==4.44.2
+accelerate==1.13.0
+opencv-python==4.13.0.92
+torchvision==0.20.0
+
+# Note: torch, numpy, and Pillow come pre-installed with JetPack on Jetson
+# Note: rclpy and cv_bridge come from ROS2 installation, not pip
